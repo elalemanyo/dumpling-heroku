@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="dumpling" src="dumpling.png" width="600px">
-  <h1>🥟 DUMPLING 🥟</h1>
+  <h1>🥟 Dumpling 🥟</h1>
   <p>A Simple Rake Task for Importing Heroku Postgres Databases Locally for Rails Apps.</p>
 </div>
 
@@ -10,6 +10,7 @@
 
 ### Run
 `bin/rake db:import:staging`
+
 `bin/rake db:import:production`
 
 ### References
