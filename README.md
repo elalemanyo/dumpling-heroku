@@ -4,7 +4,7 @@
   <p>A Simple Rake Task for Importing Heroku Postgres Databases Locally for Rails Apps.</p>
 </div>
 
-###Installation
+### Installation
 * Copy the rake task to your aplication.
 * Specify the environments and Heroku app names for your own aplication.
 
