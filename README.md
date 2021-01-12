@@ -9,9 +9,9 @@
 * Specify the environments and Heroku app names for your own aplication.
 
 ### Run
-`bin/rake db:import:staging`
+`bin/rake dumpling:import:staging`
 
-`bin/rake db:import:production`
+`bin/rake dumpling:import:production`
 
 ### References
 * [A Simple Rake Task for Importing Heroku Postgres Databases Locally for Rails Apps](https://monoso.brettchalupa.com/heroku-db-import-rake-task-for-rails)
