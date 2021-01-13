@@ -63,7 +63,7 @@ namespace :dumpling do
     end
 
     def run_migrations
-      `bin/rake db:migrate`
+      `bin/rails db:migrate`
     end
   end
 end
